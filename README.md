@@ -4,10 +4,10 @@ Sistema para cadastrar e acompanhar uma coleção de séries (Django + React).
 
 
 ## Integrantes:
-Enzo Eduardo Gomes                   RGM: 11261105276
-Nicolle Lara Cabral                  RGM: 11261104541
-Pedro Henrique Pereira de Oliveira   RGM: 11261505443
-Thais Pereira Bento                  RGM: 11261103163
+Enzo Eduardo Gomes, RGM: 11261105276;
+Nicolle Lara Cabral, RGM: 11261104541;
+Pedro Henrique Pereira de Oliveira, RGM: 11261505443;
+Thais Pereira Bento, RGM: 11261103163.
 
 ## Como rodar
 
